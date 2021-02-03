@@ -1,2 +1,2 @@
-기존 플랜 : victim(사용자) -> (KNOB) 디바이스 = clear_text
---> : victim(사용자) -> BTproxy -> 디바이스 = result
+기존 플랜 : victim(피해자) -> (KNOB) 디바이스 = clear_text
+--> : victim(피해자) -> proxy -> 디바이스 = ""
