@@ -1,2 +1,5 @@
-기존 플랜 : victim(피해자) -> (KNOB) 디바이스 = clear_text < 피해자 = O / KNOB = O / 디바이스 = O
-Bt : victim(피해자) -> proxy -> 디바이스 = "" < 피해자 = O / KNOB = ? / 디바이스 = O
+기존 : victim(피해자) -> (KNOB) 디바이스 = clear_text 
+  < 피해자 = O / KNOB = O / 디바이스 = O
+  
+Bt : victim(피해자) -> proxy -> 디바이스 = "" 
+  < 피해자 = O / KNOB = ? / 디바이스 = O
